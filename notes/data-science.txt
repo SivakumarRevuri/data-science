@@ -1,0 +1,23 @@
+Programming in Python, PostgreSQL, Scikit-Learn - Solution creation from structured/unstructured data.
+
+Storytelling, business communication, and Documentation.
+
+Exploratory Data Analysis (Data Wrangling, Data Transformation, and Feature Engineering).
+
+Able to prepare data pipelines and feature engineering pipelines to build robust models using SQL, AWS batch, etc
+
+Experience in building and iterating on business intelligence kits for the organization (both batch and real-time)
+
+ML services from Clouds such as AWS
+
+Strong problem-solving and conceptual thinking abilities
+
+Experience with data visualization tools, such as QlikView, Matplotlib, seaborn or equivalent tools.
+
+Deep knowledge and practical experience with data science toolkits, such as NumPy, Pandas, scikit-learn, or equivalent
+
+Key Responsibilities : 1 Gather requirement, design, build, deploy integrations using Python, pandas - Python Data Analysis Library 2 Candidate should have strong Python development skills with AWS Cloud 3 Work with the project team to define the best integration solution to meet business, functional, and data requirements 4 Create integration solutions to support critical business applications for high availability, stability, and performance
+
+Technical Experience : 1 4-5 years of strong experience in Python Programming Language, pandas - Python Data Analysis Library, Integrations and Data transformations 2 Strong experience in Data Integration, ETL, REST APIs, Bulk APIs, web services and batch integration 3 Strong exposure to building solution based on microservice architecture, incorporate best practices, standards, performance and security
+
+Must have Experience in AWS web Services (like EC2, EMR, RDS, Lambda, S3, LoadBalancer, ECS, EKS etc.).
